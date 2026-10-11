@@ -232,6 +232,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [Quarto Agent Skills](https://github.com/posit-dev/skills) - A collection of Claude/Agent Skills from Posit, including Quarto authoring, `brand.yml`, and alt text skills, that extend AI coding agents with Quarto-specific knowledge and workflows; usable from Claude Code, Claude.ai, and other agents (Cursor, Codex, Cline) via `npx skills add`.
 - [Quarto Brand.yml Skill](https://github.com/stephenturner/skill-brand-yml) - A Claude Code skill that generates and edits `_brand.yml` files for consistent Quarto document branding by Stephen Turner.
 - [Quarto Talks](https://github.com/alfredo-hs/quarto-talks) - An agent skill and `revealjs` template for turning research papers into Quarto presentations with AI coding agents.
+- [md-to-word](https://github.com/ls18166407597-design/md-to-word) - An open-source Quarto-based typesetting pipeline and AI Agent Skill that converts Markdown documents, reports, and academic papers into standard Word (`.docx`) files with three-line tables, right-aligned equations, deterministic builds, and GB/T 7714 / APA bibliographies.
 - [babeldown](https://github.com/ropensci-review-tools/babeldown) - An R package that uses DeepL machine translation to translate multilingual Quarto books and websites built with `babelquarto`.
 
 ## Continuous integration / Continuous deployment
