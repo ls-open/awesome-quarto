@@ -233,6 +233,7 @@ Contributions of any kind are welcome, just follow the [guidelines](.github/CONT
 - [Quarto Brand.yml Skill](https://github.com/stephenturner/skill-brand-yml) - A Claude Code skill that generates and edits `_brand.yml` files for consistent Quarto document branding by Stephen Turner.
 - [Quarto Talks](https://github.com/alfredo-hs/quarto-talks) - An agent skill and `revealjs` template for turning research papers into Quarto presentations with AI coding agents.
 - [babeldown](https://github.com/ropensci-review-tools/babeldown) - An R package that uses DeepL machine translation to translate multilingual Quarto books and websites built with `babelquarto`.
+- [md-to-word](https://github.com/ls18166407597-design/md-to-word) - An open-source Markdown-to-Word (`.docx`) tool and AI agent skill built on Quarto's docx writer and a pure Word 365 reference template, aimed at Chinese academic and official-document typesetting (three-line tables, right-aligned equation numbers, multi-section pagination, CSL bibliographies) with three deterministic quality gates.
 
 ## Continuous integration / Continuous deployment
 
